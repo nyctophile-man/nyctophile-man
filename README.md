@@ -72,7 +72,12 @@ I'm a passionate developer who loves building things, solving problems, and expl
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=nyctophile-man&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&border_color=2a2a2a" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nyctophile-man&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&border_color=2a2a2a" alt="Top Languages" />
+<br/>
+
+### 🏆 Top Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br/>
 
