@@ -1,10 +1,17 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:666666,100:E3C878&height=200&section=header&text=Ayushman&fontColor=ffffff&fontSize=70&fontAlignY=40" width="100%" alt="Ayushman" />
+<!-- Header banner with name + tagline -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:666666,100:E3C878&height=220&section=header&text=Ayushman&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Team%20Leader&descSize=22&descAlignY=62" width="100%" alt="Ayushman" />
 
 <div align="center">
 
-### 👋 Hi, I'm Ayushman
-**Developer • Problem Solver • Team Leader**
+<!-- Typing animation -->
+<a href="https://github.com/nyctophile-man">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%9A%80+Building+creative+%26+experimental+projects;%F0%9F%A7%A0+Solving+problems+that+make+me+think;%F0%9F%91%A5+Leading+teams.+Growing+ideas.;%F0%9F%93%9A+Always+curious+to+learn+something+new" alt="Typing animation" />
+</a>
+
+<!-- Badges -->
+![Developer](https://img.shields.io/badge/DEVELOPER-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/PROBLEM%20SOLVER-D4AF37?style=for-the-badge&logo=puzzle&logoColor=black)
+![Team Leader](https://img.shields.io/badge/TEAM%20LEADER-555555?style=for-the-badge&logo=teamspeak&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-kumar-685315389)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nyctophile-man)
