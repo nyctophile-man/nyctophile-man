@@ -72,16 +72,16 @@ I enjoy taking <b>leadership roles</b>, working with teams, and turning ideas in
 
 <br/>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
+    <td align="left" valign="top" width="50%">
       <br/>
       <img src="https://img.shields.io/badge/LANGUAGES-FF2E63?style=for-the-badge" alt="Languages" />
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark&perline=5" alt="Languages" />
       <br/><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="left" valign="top" width="50%">
       <br/>
       <img src="https://img.shields.io/badge/FRONTEND%20%26%20CREATIVE-FF2E63?style=for-the-badge" alt="Frontend and Creative" />
       <br/><br/>
@@ -90,14 +90,14 @@ I enjoy taking <b>leadership roles</b>, working with teams, and turning ideas in
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="left" valign="top" width="50%">
       <br/>
       <img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASES-FF2E63?style=for-the-badge" alt="Backend and Databases" />
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,redis&theme=dark&perline=5" alt="Backend and Databases" />
       <br/><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="left" valign="top" width="50%">
       <br/>
       <img src="https://img.shields.io/badge/TOOLS-FF2E63?style=for-the-badge" alt="Tools" />
       <br/><br/>
