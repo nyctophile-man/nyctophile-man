@@ -72,31 +72,40 @@ I enjoy taking <b>leadership roles</b>, working with teams, and turning ideas in
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/LANGUAGES-FF2E63?style=for-the-badge" alt="Languages" />
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" alt="Languages" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/FRONTEND%20%26%20CREATIVE-FF2E63?style=for-the-badge" alt="Frontend and Creative" />
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,html,css&theme=dark" alt="Frontend and Creative" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASES-FF2E63?style=for-the-badge" alt="Backend and Databases" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,redis&theme=dark" alt="Backend and Databases" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/TOOLS-FF2E63?style=for-the-badge" alt="Tools" />
-
-<img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark" alt="Tools" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/LANGUAGES-FF2E63?style=for-the-badge" alt="Languages" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark&perline=5" alt="Languages" />
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/FRONTEND%20%26%20CREATIVE-FF2E63?style=for-the-badge" alt="Frontend and Creative" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,html,css&theme=dark&perline=5" alt="Frontend and Creative" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASES-FF2E63?style=for-the-badge" alt="Backend and Databases" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,redis&theme=dark&perline=5" alt="Backend and Databases" />
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/TOOLS-FF2E63?style=for-the-badge" alt="Tools" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark&perline=5" alt="Tools" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <!--
 ## 🛠️ Projects
