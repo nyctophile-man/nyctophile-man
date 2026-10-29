@@ -12,7 +12,7 @@
   </a>
 </td>
 <td width="45%" align="center">
-  <img src="./assets/ayushman_math_portrait.gif" width="280" alt="Ayushman portrait made of math equations" />
+  <img src="ayushman_math_portrait.gif" width="280" alt="Ayushman portrait made of math equations" />
 </td>
 </tr>
 </table>
