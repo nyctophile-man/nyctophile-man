@@ -1,84 +1,95 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:666666,100:E3C878&height=220&section=header&text=Ayushman&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Team%20Leader&descSize=22&descAlignY=62" width="100%" alt="Ayushman" />
 
-<div align="center">
-
-<!-- Typing animation -->
-<a href="https://github.com/nyctophile-man">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=560&height=50&lines=%F0%9F%9A%80+Building+creative+%26+experimental+projects;%F0%9F%A7%A0+Solving+problems+that+make+me+think;%F0%9F%91%A5+Leading+teams.+Growing+ideas.;%F0%9F%93%9A+Always+curious+to+learn+something+new" alt="Typing animation" />
-</a>
+<table align="center">
+  <tr>
+    <!-- Portrait (left) -->
+    <td width="40%" align="center" valign="middle">
+      <img src="ayushman_math_portrait_gradient.gif" width="300" alt="Ayushman portrait made of math equations" />
+    </td>
+    <!-- Info (right) -->
+    <td width="60%" align="left" valign="middle">
+      <a href="https://github.com/nyctophile-man">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D4AF37&center=false&vCenter=true&width=460&height=110&lines=%F0%9F%9A%80+Building+creative+%26+experimental+projects;%F0%9F%A7%A0+Solving+problems+that+make+me+think;%F0%9F%91%A5+Leading+teams.+Growing+ideas.;%F0%9F%93%9A+Always+curious+to+learn+something+new" alt="Typing animation" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/DEVELOPER-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer" />
+      <img src="https://img.shields.io/badge/PROBLEM%20SOLVER-D4AF37?style=for-the-badge&logoColor=black" alt="Problem Solver" />
+      <img src="https://img.shields.io/badge/TEAM%20LEADER-555555?style=for-the-badge&logoColor=white" alt="Team Leader" />
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/ayushman-kumar-685315389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://github.com/nyctophile-man"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      <img src="https://komarev.com/ghpvc/?username=nyctophile-man&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Portrait -->
-<img src="ayushman_math_portrait_gradient.gif" width="320" alt="Ayushman portrait made of math equations" />
+<!-- ═════════════ ABOUT ME ═════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:666666,100:E3C878&height=48&section=header&text=%E2%97%86%20%20ABOUT%20ME%20%20%E2%97%86&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=54" width="100%" alt="About Me" />
 
-<br/><br/>
-
-<!-- Badges -->
-![Developer](https://img.shields.io/badge/DEVELOPER-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Problem Solver](https://img.shields.io/badge/PROBLEM%20SOLVER-D4AF37?style=for-the-badge&logoColor=black)
-![Team Leader](https://img.shields.io/badge/TEAM%20LEADER-555555?style=for-the-badge&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-kumar-685315389)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nyctophile-man)
-![Profile Views](https://komarev.com/ghpvc/?username=nyctophile-man&label=Profile%20Views&color=D4AF37&style=flat-square)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:666666,100:E3C878&height=2&section=header" width="100%" alt="" />
-
-<h2 align="center">💫 About Me</h2>
+<br/>
 
 <p align="center">
 I'm a developer who loves building things, solving problems, and exploring new technologies.<br/>
 I enjoy taking <b>leadership roles</b>, working with teams, and turning ideas into real-world projects.
 </p>
 
-<p align="center"><i>"I don't just write code — I love solving problems that make me think."</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=E3C878&center=true&vCenter=true&width=620&height=35&lines=%22I+don't+just+write+code+%E2%80%94+I+love+solving+problems+that+make+me+think.%22" alt="Quote" />
+</p>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>♟️</h3>
+      <b>Mind Games</b><br/>
+      <sub>I love mind games and challenging problems</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀</h3>
+      <b>Experimental</b><br/>
+      <sub>I build creative and experimental projects</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>👥</h3>
+      <b>Leadership</b><br/>
+      <sub>I like leading teams and collaborating with people</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>📚</h3>
+      <b>Curious</b><br/>
+      <sub>Always curious to learn something new</sub>
+    </td>
+  </tr>
+</table>
 
-♟️ I love mind games and challenging problems<br/>
-🚀 I build creative and experimental projects<br/>
-👥 I like leading teams and collaborating with people<br/>
-📚 Always curious to learn something new
+<br/>
 
-</div>
+<!-- ═════════════ TECH STACK ═════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:666666,100:E3C878&height=48&section=header&text=%E2%97%86%20%20TECH%20STACK%20%20%E2%97%86&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=54" width="100%" alt="Tech Stack" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:666666,100:E3C878&height=2&section=header" width="100%" alt="" />
+<br/>
 
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<div align="center">
-
-**Languages**<br/>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend & Creative**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend &<br/>Creative</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,threejs,html,css&theme=dark" alt="Frontend and Creative" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend &<br/>Databases</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,redis&theme=dark" alt="Backend and Databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
 
 <!--
 ## 🛠️ Projects
@@ -87,18 +98,25 @@ Add 3-4 featured projects here, for example:
 - **[Project Name](https://github.com/nyctophile-man/repo)**: one line on what it does and the stack used.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:666666,100:E3C878&height=2&section=header" width="100%" alt="" />
+<br/>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=nyctophile-man&show_icons=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&border_color=2a2a2a" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nyctophile-man&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&border_color=2a2a2a" alt="Top Languages" />
+<!-- ═════════════ GITHUB STATS ═════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:666666,100:E3C878&height=48&section=header&text=%E2%97%86%20%20GITHUB%20STATS%20%20%E2%97%86&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=54" width="100%" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=nyctophile-man&theme=dark&hide_border=false&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border=2a2a2a" alt="GitHub Streak" />
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=nyctophile-man&show_icons=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&border_color=D4AF37&border_radius=10&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nyctophile-man&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&border_color=D4AF37&border_radius=10&hide_border=false" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=nyctophile-man&theme=dark&hide_border=false&border_radius=10&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border=D4AF37" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyctophile-man&bg_color=0d0d0d&color=D4AF37&line=E3C878&point=ffffff&area=true&area_color=D4AF37&hide_border=true&title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 
 <br/><br/>
 
