@@ -97,9 +97,6 @@ I enjoy taking <b>leadership roles</b>, working with teams, and turning ideas in
 
 <img src="https://streak-stats.demolab.com/?user=nyctophile-man&theme=dark&hide_border=false&border_radius=10&background=050a06&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9fd4ae&border=00FF41" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyctophile-man&bg_color=050a06&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41&hide_border=true" alt="Contribution Activity Graph" width="95%" />
 
 </div>
 
