@@ -1,20 +1,20 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A0F24,100:FF6FA5&height=220&section=header&text=Ayushman&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Team%20Leader&descSize=22&descAlignY=62" width="100%" alt="Ayushman" />
 
-<!-- ═════════════ HERO: portrait (left) + info (right) ═════════════ -->
-<img align="left" src="ayushman_math_portrait_gradient.gif" width="300" alt="Ayushman portrait made of math equations" />
+<!-- ═════════════ HERO ═════════════ -->
+<div align="center">
+
+<img src="ayushman_math_portrait_gradient.gif" width="280" alt="Ayushman portrait made of math equations" />
 
 <br/><br/>
 
 <a href="https://github.com/nyctophile-man">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF2E63&center=false&vCenter=true&width=460&height=110&lines=%F0%9F%9A%80+Building+creative+%26+experimental+projects;%F0%9F%A7%A0+Solving+problems+that+make+me+think;%F0%9F%91%A5+Leading+teams.+Growing+ideas.;%F0%9F%93%9A+Always+curious+to+learn+something+new" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%9A%80+Building+creative+%26+experimental+projects;%F0%9F%A7%A0+Solving+problems+that+make+me+think;%F0%9F%91%A5+Leading+teams.+Growing+ideas.;%F0%9F%93%9A+Always+curious+to+learn+something+new" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DEVELOPER-5A0F24?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer" />
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVER-FF2E63?style=for-the-badge" alt="Problem Solver" />
-<img src="https://img.shields.io/badge/TEAM%20LEADER-5A0F24?style=for-the-badge" alt="Team Leader" />
+<img src="https://img.shields.io/badge/DEVELOPER-5A0F24?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer" /><img src="https://img.shields.io/badge/PROBLEM%20SOLVER-FF2E63?style=for-the-badge" alt="Problem Solver" /><img src="https://img.shields.io/badge/TEAM%20LEADER-5A0F24?style=for-the-badge" alt="Team Leader" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 <a href="https://github.com/nyctophile-man"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=nyctophile-man&label=Profile%20Views&color=FF2E63&style=flat-square" alt="Profile Views" />
 
-<br clear="left" />
+</div>
 
 <br/>
 
