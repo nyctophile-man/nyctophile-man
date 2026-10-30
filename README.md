@@ -1,35 +1,33 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A0F24,100:FF6FA5&height=220&section=header&text=Ayushman&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Team%20Leader&descSize=22&descAlignY=62" width="100%" alt="Ayushman" />
 
-<table align="center">
-  <tr>
-    <!-- Portrait (left) -->
-    <td width="40%" align="center" valign="middle">
-      <img src="ayushman_math_portrait_gradient.gif" width="300" alt="Ayushman portrait made of math equations" />
-    </td>
-    <!-- Info (right) -->
-    <td width="60%" align="left" valign="middle">
-      <a href="https://github.com/nyctophile-man">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF2E63&center=false&vCenter=true&width=460&height=110&lines=%F0%9F%9A%80+Building+creative+%26+experimental+projects;%F0%9F%A7%A0+Solving+problems+that+make+me+think;%F0%9F%91%A5+Leading+teams.+Growing+ideas.;%F0%9F%93%9A+Always+curious+to+learn+something+new" alt="Typing animation" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/DEVELOPER-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer" />
-      <img src="https://img.shields.io/badge/PROBLEM%20SOLVER-FF2E63?style=for-the-badge&logoColor=black" alt="Problem Solver" />
-      <img src="https://img.shields.io/badge/TEAM%20LEADER-555555?style=for-the-badge&logoColor=white" alt="Team Leader" />
-      <br/><br/>
-      <a href="https://www.linkedin.com/in/ayushman-kumar-685315389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="https://github.com/nyctophile-man"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      <img src="https://komarev.com/ghpvc/?username=nyctophile-man&label=Profile%20Views&color=FF2E63&style=flat-square" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+<!-- ═════════════ HERO: portrait (left) + info (right) ═════════════ -->
+<img align="left" src="ayushman_math_portrait_gradient.gif" width="300" alt="Ayushman portrait made of math equations" />
+
+<br/><br/>
+
+<a href="https://github.com/nyctophile-man">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF2E63&center=false&vCenter=true&width=460&height=110&lines=%F0%9F%9A%80+Building+creative+%26+experimental+projects;%F0%9F%A7%A0+Solving+problems+that+make+me+think;%F0%9F%91%A5+Leading+teams.+Growing+ideas.;%F0%9F%93%9A+Always+curious+to+learn+something+new" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DEVELOPER-5A0F24?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Developer" />
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVER-FF2E63?style=for-the-badge" alt="Problem Solver" />
+<img src="https://img.shields.io/badge/TEAM%20LEADER-5A0F24?style=for-the-badge" alt="Team Leader" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ayushman-kumar-685315389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/nyctophile-man"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=nyctophile-man&label=Profile%20Views&color=FF2E63&style=flat-square" alt="Profile Views" />
+
+<br clear="left" />
 
 <br/>
 
 <!-- ═════════════ ABOUT ME ═════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5A0F24,100:FF6FA5&height=48&section=header&text=%E2%97%86%20%20ABOUT%20ME%20%20%E2%97%86&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=54" width="100%" alt="About Me" />
-
-<br/>
 
 <p align="center">
 I'm a developer who loves building things, solving problems, and exploring new technologies.<br/>
@@ -37,61 +35,49 @@ I enjoy taking <b>leadership roles</b>, working with teams, and turning ideas in
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF6FA5&center=true&vCenter=true&width=620&height=35&lines=%22I+don't+just+write+code+%E2%80%94+I+love+solving+problems+that+make+me+think.%22" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF6FA5&center=true&vCenter=true&width=700&height=35&lines=%22I+don't+just+write+code+%E2%80%94+I+love+solving+problems+that+make+me+think.%22" alt="Quote" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>♟️</h3>
-      <b>Mind Games</b><br/>
-      <sub>I love mind games and challenging problems</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🚀</h3>
-      <b>Experimental</b><br/>
-      <sub>I build creative and experimental projects</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>👥</h3>
-      <b>Leadership</b><br/>
-      <sub>I like leading teams and collaborating with people</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>📚</h3>
-      <b>Curious</b><br/>
-      <sub>Always curious to learn something new</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+♟️ <b>Mind Games</b> <sub>challenging problems</sub> &nbsp;·&nbsp;
+🚀 <b>Experimental</b> <sub>creative projects</sub> &nbsp;·&nbsp;
+👥 <b>Leadership</b> <sub>teams &amp; collaboration</sub> &nbsp;·&nbsp;
+📚 <b>Curious</b> <sub>always learning</sub>
+</p>
+
+<!-- Optional: uncomment and fill in
+<p align="center">
+🔭 Currently working on <b>...</b> &nbsp;·&nbsp; 🌱 Currently learning <b>...</b>
+</p>
+-->
 
 <br/>
 
 <!-- ═════════════ TECH STACK ═════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5A0F24,100:FF6FA5&height=48&section=header&text=%E2%97%86%20%20TECH%20STACK%20%20%E2%97%86&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=54" width="100%" alt="Tech Stack" />
 
-<br/>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/%E2%96%B8%20LANGUAGES-FF2E63?style=for-the-badge" alt="Languages" /><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/%E2%96%B8%20LANGUAGES-FF2E63?style=for-the-badge" alt="Languages" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" alt="Languages" />
+</p>
 
-<img src="https://img.shields.io/badge/%E2%96%B8%20FRONTEND%20%26%20CREATIVE-FF2E63?style=for-the-badge" alt="Frontend and Creative" /><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/%E2%96%B8%20FRONTEND%20%26%20CREATIVE-FF2E63?style=for-the-badge" alt="Frontend and Creative" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,html,css&theme=dark" alt="Frontend and Creative" />
+</p>
 
-<img src="https://img.shields.io/badge/%E2%96%B8%20BACKEND%20%26%20DATABASES-FF2E63?style=for-the-badge" alt="Backend and Databases" /><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/%E2%96%B8%20BACKEND%20%26%20DATABASES-FF2E63?style=for-the-badge" alt="Backend and Databases" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,redis&theme=dark" alt="Backend and Databases" />
+</p>
 
-<img src="https://img.shields.io/badge/%E2%96%B8%20TOOLS-FF2E63?style=for-the-badge" alt="Tools" /><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/%E2%96%B8%20TOOLS-FF2E63?style=for-the-badge" alt="Tools" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark" alt="Tools" />
-
-</div>
+</p>
 
 <!--
-## 🛠️ Projects
-Add 3-4 featured projects here, for example:
-
+═════════════ PROJECTS (add 3-4 featured projects) ═════════════
 - **[Project Name](https://github.com/nyctophile-man/repo)**: one line on what it does and the stack used.
 -->
 
@@ -100,9 +86,9 @@ Add 3-4 featured projects here, for example:
 <!-- ═════════════ GITHUB STATS ═════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5A0F24,100:FF6FA5&height=48&section=header&text=%E2%97%86%20%20GITHUB%20STATS%20%20%E2%97%86&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=54" width="100%" alt="GitHub Stats" />
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=nyctophile-man&show_icons=true&bg_color=0d0d0d&title_color=FF2E63&icon_color=FF2E63&text_color=ffffff&border_color=FF2E63&border_radius=10&hide_border=false&rank_icon=github" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nyctophile-man&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=FF2E63&text_color=ffffff&border_color=FF2E63&border_radius=10&hide_border=false" alt="Top Languages" />
@@ -111,8 +97,27 @@ Add 3-4 featured projects here, for example:
 
 <img src="https://streak-stats.demolab.com/?user=nyctophile-man&theme=dark&hide_border=false&border_radius=10&background=0d0d0d&ring=FF2E63&fire=FF2E63&currStreakLabel=FF2E63&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=c9a0ae&border=FF2E63" alt="GitHub Streak" />
 
-
 <br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyctophile-man&bg_color=0d0d0d&color=FF6FA5&line=FF2E63&point=ffffff&area=true&area_color=FF2E63&hide_border=true" alt="Contribution Activity Graph" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ═════════════ CONNECT ═════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5A0F24,100:FF6FA5&height=48&section=header&text=%E2%97%86%20%20LET'S%20CONNECT%20%20%E2%97%86&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=54" width="100%" alt="Let's Connect" />
+
+<p align="center">
+Got an idea, a tough problem, or a project to build together? Let's talk.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushman-kumar-685315389"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/nyctophile-man"><img src="https://img.shields.io/badge/GitHub-Follow-FF2E63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<div align="center">
 
 *Always building. Always learning.* ✨
 
